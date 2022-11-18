@@ -2,7 +2,38 @@
   text-align: center;
 }
 
-.App-logo {
+.user-name{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: red;
+  font-weight: normal;
+}
+.user-profile-pic{
+  height: 250px;
+  border-radius: 50px;
+ }
+
+.user-first-name{
+  font-weight: bold;
+  font-style: italic;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +66,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
