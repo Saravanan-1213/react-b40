@@ -6,11 +6,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <User name="SaraVanan🖤💛" 
+      <User name="SaraVanan🖤" 
       pic="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP_jBNGDAl_gCziVLX5q8vuci3Z8VmfK8Rrdtct54&s" />
-      <User name="Ravi" 
+      <User name="Ravi 💥" 
       pic="https://images.unsplash.com/photo-1628563694622-5a76957fd09c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aW5zdGFncmFtJTIwcHJvZmlsZXxlbnwwfHwwfHw%3D&w=1000&q=80"/>
-      <User name="John"
+      <User name="John 🤎"
       pic="https://wallpaperaccess.com/full/2213424.jpg"/>
     </div>
   );
